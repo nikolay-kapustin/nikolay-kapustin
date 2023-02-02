@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nikolay-kapustin
-- 👀 I’m interested in swift programming stack.
-- 🌱 I’m currently learning vapor and swiftNIO for backend.
+- 👀 I’m pro in swift programming stack.
+- 🌱 I’m currently learning Swift Server Side developing.
+- 🦾 Also i'm studying the neural engines, Mobile AI deep learning
 - 💞️ I’m looking to collaborate on ...hmmm any cool swift project may be?
 - 📫 How to reach me just try @greenkaktus telegram
 
